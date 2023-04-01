@@ -6,7 +6,7 @@
     --bg-1: #fff;
   }
   * {
-    margin: 0;
+    margin: auto;
     padding: 0;
     font-family: "Open Sans", sans-serif;
   }
@@ -17,14 +17,13 @@
     position: relative;
   }
   
-  
   .home-title {
     font-weight: bold;
     font-size: 55px;
     line-height: 77px;
     margin-bottom: 30px;
     color: var(--secondary-color);
-    text-shadow: 0px 0px 4px #000000;
+    text-shadow: 0px 0px 1px #000000;
   }
   .home-desc {
     font-size: 20px;
