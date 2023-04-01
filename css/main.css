@@ -1,4 +1,4 @@
-/*--------------------------- Color variations ----------------------*/
+  /*--------------------------- Color variations ----------------------*/
 /* Medium Layout: 1280px */
 /* Tablet Layout: 768px */
 /* Mobile Layout: 320px */
@@ -1018,7 +1018,7 @@
   }
   
   b, sup, sub, u, del {
-    color: #b10b0a;
+    color: #000;
   }
   
   h1 {
@@ -2536,7 +2536,7 @@
   }
   
   .banner-area .overlay-bg {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.4);
   }
   
   .banner-content {
