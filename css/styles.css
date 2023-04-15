@@ -417,7 +417,7 @@
   
   /* Media */
   
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 1025px) {
     /* Navbar */
     body {
       overflow-x: hidden;
