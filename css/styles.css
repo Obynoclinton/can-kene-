@@ -440,7 +440,7 @@
       transition: transform 0.5s;
     }
     .menu a {
-      padding-top: 5vh;
+      padding-top: 0.5vh;
     }
     .menu-active {
       transform: translateX(0%);
